@@ -2,7 +2,6 @@
 
 Un motor de vóxeles inspirado en **Minecraft**, desarrollado desde cero usando **Python** y **OpenGL**. Este proyecto recrea la experiencia de construcción y exploración en un mundo de bloques proceduralmente generado.
 
-![Minecraft Clone](/screenshot/0.jpg)
 
 ## 🌟 Características Actuales
 
@@ -64,10 +63,7 @@ Este proyecto ha sido desarrollado con mucho esfuerzo y dedicación por:
 - 🌊 Agua y líquidos
 - 🌤️ Sistema de clima y cielo dinámico
 - 🎵 Audio y efectos de sonido
-- 📦 Inventario y crafting
-- 🏠 Estructuras procedurales
-- 🌍 Biomas diversos
-- 💎 Recursos y minería
+- 📦 HUB
 - ⚔️ Sistema de herramientas
 
 ## 🛠️ Tecnologías Utilizadas
